@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KantipurTV.np@HD",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="AnjanTV.in@SD",Anjan TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
